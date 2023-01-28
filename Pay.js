@@ -1,2 +1,2 @@
-var pro = 1
+var pro = 555
 console.log(pro)
